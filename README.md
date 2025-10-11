@@ -12,5 +12,5 @@ This repository serves as a centralized collection of all assignments, projects,
 
 These works are a collaboration between the following main contributors:
 
-* **Mariptime** - Akshay Nagarajan
-* **Vaipos** - Vaishnavi Pasumarthi
+* **@Mariptime** - Akshay Nagarajan
+* **@Vaipos** - Vaishnavi Pasumarthi
