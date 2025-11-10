@@ -74,6 +74,6 @@ These works are a collaboration between the following main contributors:
 
 *  **@vaipos** - Vaishnavi Pasumarthi
 
-CS 4372.501 - Assignment 2
+CS 4372.501 - Assignment 3
 
 Anurag Nagar - Fall 2025
